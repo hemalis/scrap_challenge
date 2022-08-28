@@ -1,0 +1,9 @@
+@media(max-width: 480px) {
+    h3 {
+      font-size: 6pt;
+      margin: 5px;
+    }
+    .thumbnail .caption {
+      padding: 3px;
+    }
+}
